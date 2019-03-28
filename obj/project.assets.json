@@ -13891,9 +13891,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nirsegev/temp/UristicServer/Asp-net-Core-Project-with-Admin-Template-Setup.csproj",
-      "projectName": "Asp-net-Core-Project-with-Admin-Template-Setup",
-      "projectPath": "/Users/nirsegev/temp/UristicServer/Asp-net-Core-Project-with-Admin-Template-Setup.csproj",
+      "projectUniqueName": "/Users/nirsegev/temp/UristicServer/Uristic-Admin.csproj",
+      "projectName": "Uristic-Admin",
+      "projectPath": "/Users/nirsegev/temp/UristicServer/Uristic-Admin.csproj",
       "packagesPath": "/Users/nirsegev/.nuget/packages/",
       "outputPath": "/Users/nirsegev/temp/UristicServer/obj/",
       "projectStyle": "PackageReference",

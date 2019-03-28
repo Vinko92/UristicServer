@@ -3,7 +3,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Asp-net-Core-Project-with-Admin-Template-Setup" expanded="True" selected="True" />
+          <Node name="Uristic-Admin" expanded="True" selected="True">
+            <Node name="Uristic-Admin" expanded="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
